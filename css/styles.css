@@ -1,0 +1,7 @@
+.top line {
+  width: 1440px;
+  height: 72px;
+  flex-shrink: 0;
+  border-bottom: 1px#E7E9FC;
+  background: #fff;
+}
